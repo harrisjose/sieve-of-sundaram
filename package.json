@@ -1,0 +1,27 @@
+{
+  "name": "sieve-of-sundaram",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the Sieve of Sundaram for finding prime numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrisjose/sieve-of-sundaram"
+  },
+  "keywords": [
+    "sundaram",
+    "sieve",
+    "primes",
+    "fast",
+    "primesieve",
+    "primenumber"
+  ],
+  "bugs": {
+    "url": "https://github.com/harrisjose/sieve-of-sundaram/issues"
+  },
+  "homepage": "https://github.com/harrisjose/sieve-of-sundaram",
+  "author": "Harris Jose <harrisjose@outlook.com> (http://harrisjose.github.io/)",
+  "license": "ISC"
+}
